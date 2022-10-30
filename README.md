@@ -1,3 +1,2 @@
 # TorchTransformerFromSkratch
-My Implementation of Transformer on pytroch
-2022
+My Implementation of Transformer on pytroch 2022
